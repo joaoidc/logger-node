@@ -1,4 +1,4 @@
-# Projeto de Monitoramento de Memória em Tempo Real com Node.js
+# Projeto de monitoramento de memória RAM em tempo real com Node.js
 
 Este projeto foi desenvolvido para monitorar o uso da memória RAM em tempo real em um sistema operacional. Utiliza Node.js para capturar e exibir informações sobre a memória disponível e total, facilitando a gestão de recursos do sistema.
 
